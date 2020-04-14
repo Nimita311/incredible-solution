@@ -14,6 +14,66 @@ Solutions to the [Incredible Proof Machine](http://incredible.pm/).
 - [Simply Type Lambda Calculus](#simply-type-lambda-calculus)
 
 ## Session 1
+<!-- 1.1 -->
+$$
+A \above 2pt A
+$$
+
+<!-- 1.2 -->
+$$
+A \quad B \above 2pt A
+$$
+
+<!-- 1.3 -->
+$$
+A \quad B \above 2pt B \quad A
+$$
+
+<!-- 1.4 -->
+$$
+A \quad B \above 2pt A\land B
+$$
+
+<!-- 1.5 -->
+$$
+A \above 2pt A\land A
+$$
+
+<!-- 1.6 -->
+$$
+A\land B \above 2pt A
+$$
+
+<!-- 1.7 -->
+$$
+A\land B \above 2pt A \quad B
+$$
+
+<!-- 1.8 -->
+$$
+A\land B \above 2pt A\land B
+$$
+
+<!-- 1.9 -->
+$$
+A\land B \above 2pt B\land A
+$$
+
+<!-- 1.10 -->
+$$
+(A\land B)\land C \above 2pt A \quad B \quad C
+$$
+
+<!-- 1.11 -->
+$$
+(A\land B)\land C \above 2pt A\land C
+$$
+
+<!-- 1.12 -->
+$$
+(A\land B)\land C \above 2pt A\land (B\land C)
+$$
+
 
 ## Session 2
 
