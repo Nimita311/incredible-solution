@@ -17,38 +17,62 @@ Solutions to the [Incredible Proof Machine](http://incredible.pm/).
 <!-- 1.1 -->
 <p align="center"><img alt="$$&#10;A \above 2pt A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/a584a5945aa27a5cb4a43b0c1b7cfd7a.svg" align="middle" width="12.32879835pt" height="45.479403749999996pt"/></p>
 
+![1.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.1.svg "1.1")
+
 <!-- 1.2 -->
 <p align="center"><img alt="$$&#10;A \quad B \above 2pt A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/e37b1c43b6e8cd1b4123a9e14aaeac60.svg" align="middle" width="42.06059055pt" height="45.479403749999996pt"/></p>
+
+![1.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.2.svg "1.2")
 
 <!-- 1.3 -->
 <p align="center"><img alt="$$&#10;A \quad B \above 2pt B \quad A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/81053e505719ff0ad17217632cc6d8fc.svg" align="middle" width="42.06059055pt" height="45.479403749999996pt"/></p>
 
+![1.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.3.svg "1.3")
+
 <!-- 1.4 -->
 <p align="center"><img alt="$$&#10;A \quad B \above 2pt A\land B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/518688edb44c4428df32237798e665df.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
+
+![1.4](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.4.svg "1.4")
 
 <!-- 1.5 -->
 <p align="center"><img alt="$$&#10;A \above 2pt A\land A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/330378b4f218d8354a01238e3a77e928.svg" align="middle" width="42.922294799999996pt" height="45.479403749999996pt"/></p>
 
+![1.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.5.svg "1.5")
+
 <!-- 1.6 -->
 <p align="center"><img alt="$$&#10;A\land B \above 2pt A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/d390ec5a1add63730a037c3ee66e6294.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
+
+![1.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.6.svg "1.6")
 
 <!-- 1.7 -->
 <p align="center"><img alt="$$&#10;A\land B \above 2pt A \quad B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/1a7da6f79b1149fdc73e98c8cb3b5aa3.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![1.7](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.7.svg "1.7")
+
 <!-- 1.8 -->
 <p align="center"><img alt="$$&#10;A\land B \above 2pt A\land B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/14abccc45e6a15def9835733330313aa.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
+
+![1.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.8.svg "1.8")
 
 <!-- 1.9 -->
 <p align="center"><img alt="$$&#10;A\land B \above 2pt B\land A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/d081288ae37bc48202de3044d747ede4.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![1.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.9.svg "1.9")
+
 <!-- 1.10 -->
 <p align="center"><img alt="$$&#10;(A\land B)\land C \above 2pt A \quad B \quad C&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/2b878662c7a61f902c115ac98453672c.svg" align="middle" width="87.86167664999999pt" height="50.684898pt"/></p>
+
+![1.10](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.10.svg "1.10")
 
 <!-- 1.11 -->
 <p align="center"><img alt="$$&#10;(A\land B)\land C \above 2pt A\land C&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/ea2865a52448c769a09e4b8ff1ac9a9f.svg" align="middle" width="87.86167664999999pt" height="50.684898pt"/></p>
 
+![1.11](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.11.svg "1.11")
+
 <!-- 1.12 -->
 <p align="center"><img alt="$$&#10;(A\land B)\land C \above 2pt A\land (B\land C)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/5f4aba453c689901238b46822e4a5ade.svg" align="middle" width="87.86167664999999pt" height="55.8904104pt"/></p>
+
+![1.12](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.12.svg "1.12")
 
 
 ## Session 2
