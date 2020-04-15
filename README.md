@@ -76,6 +76,75 @@ $$
 
 
 ## Session 2
+<!-- 2.1 -->
+$$
+A \quad A\to B \above 2pt B
+$$
+
+<!-- 2.2 -->
+$$
+A \quad A\to B \quad B\to C \above 2pt C
+$$
+
+<!-- 2.3 -->
+$$
+A \quad A\to B \quad A\to C \quad B\to D \quad C\to D \above 2pt D
+$$
+
+<!-- 2.4 -->
+$$
+A \quad A\to A \above 2pt A
+$$
+
+<!-- 2.5 -->
+$$
+A\to B \quad B\to C \above 2pt A\to C
+$$
+
+<!-- 2.6 -->
+$$
+A\to B \quad A\to (B\to C) \above 2pt A\to C
+$$
+
+<!-- 2.7 -->
+$$
+{} \above 2pt A\to A
+$$
+
+<!-- 2.8 -->
+$$
+A\to C \quad B\to C \quad A\land B \above 2pt C
+$$
+
+<!-- 2.9 -->
+$$
+A\to C \quad B\to C \above 2pt A\land B\to C
+$$
+
+<!-- 2.10 -->
+$$
+B \above 2pt A\to B
+$$
+
+<!-- 2.11 -->
+$$
+A\land B\to C \above 2pt A\to (B\to C)
+$$
+
+<!-- 2.12 -->
+$$
+A\to (B\to C) \above 2pt A\land B\to C
+$$
+
+<!-- 2.13 -->
+$$
+(A\to B)\land (A\to C) \above 2pt A\to B\land C
+$$
+
+<!-- 2.14 -->
+$$
+A\to (A\to B) \quad (A\to B)\to A \above 2pt B
+$$
 
 ## Session 3
 
