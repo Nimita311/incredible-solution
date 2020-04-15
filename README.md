@@ -417,6 +417,15 @@ $$
 
 
 ## Session 7
+<!-- 7.1 -->
+$$
+{} \above 2pt \exists x.\ t(x)\to (\forall x_1.\ t(x_1))
+$$
+
+<!-- 7.2 -->
+$$
+\forall x.\ (r(x)\to \perp)\to r(f(x)) \above 2pt \exists x.\ r(x)\land r(f(f(x)))
+$$
 
 ## Hilbert System
 
