@@ -230,7 +230,7 @@ $$
 
 <!-- 4.5 -->
 $$
-\perp \and A \above 2pt \perp
+\perp \land A \above 2pt \perp
 $$
 
 <!-- 4.6 -->
@@ -332,12 +332,12 @@ $$
 ## Session 6
 <!-- 6.1 -->
 $$
-\forall x. P(x) \above 2pt P(a)
+\forall x.\ P(x) \above 2pt P(a)
 $$
 
 <!-- 6.2 -->
 $$
-\forall x. P(x) \above 2pt P(a)\land P(b)
+\forall x.\ P(x) \above 2pt P(a)\land P(b)
 $$
 
 <!-- 6.3 -->
