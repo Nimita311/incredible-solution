@@ -506,6 +506,20 @@ $$
 $$
 
 ## Simply Type Lambda Calculus
+<!-- 10.1 -->
+$$
+{} \above 2pt (\lambda x.\ x):\ a\to a
+$$
+
+<!-- 10.2 -->
+$$
+{} \above 2pt (\lambda x.\ \lambda y.\ x):\ a\to (b\to a)
+$$
+
+<!-- 10.3 -->
+$$
+{} \above 2pt (\lambda x.\ \lambda y.\ \lambda z.\ (x\cdot z)\cdot (y\cdot z)): (a\to (b\to c))\to ((a\to b)\to (a\to c))
+$$
 
 
 ## Copyright
