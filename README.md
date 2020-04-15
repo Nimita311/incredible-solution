@@ -428,6 +428,51 @@ $$
 $$
 
 ## Hilbert System
+<!-- 8.1 -->
+$$
+{} \above 2pt A\to A
+$$
+
+<!-- 8.2 -->
+$$
+{} \above 2pt (B\to C)\to ((A\to B)\to (A\to C))
+$$
+
+<!-- 8.3 -->
+$$
+{} \above 2pt (A\to (B\to C))\to (B\to (A\to C))
+$$
+
+<!-- 8.4 -->
+$$
+{} \above 2pt \neg A\to (A\to B)
+$$
+
+<!-- 8.5 -->
+$$
+{} \above 2pt (\neg A\to A)\to A
+$$
+
+<!-- 8.6 -->
+$$
+{} \above 2pt \neg\neg A\to A
+$$
+
+<!-- 8.7 -->
+$$
+{} \above 2pt A\to \neg\neg A
+$$
+
+<!-- 8.8 -->
+$$
+{} \above 2pt (B\to A)\to (\neg A\to \neg B)
+$$
+
+<!-- 8.9 -->
+$$
+{} \above 2pt (A\to B)\to ((\neg A\to B)\to B)
+$$
+
 
 ## NAND Calculus
 
