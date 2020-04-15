@@ -330,6 +330,91 @@ $$
 $$
 
 ## Session 6
+<!-- 6.1 -->
+$$
+\forall x. P(x) \above 2pt P(a)
+$$
+
+<!-- 6.2 -->
+$$
+\forall x. P(x) \above 2pt P(a)\land P(b)
+$$
+
+<!-- 6.3 -->
+$$
+P(a) \above 2pt \exists x.\ P(x)
+$$
+
+<!-- 6.4 -->
+$$
+\forall x.\ P(x) \above 2pt \exists x.\ P(x)
+$$
+
+<!-- 6.5 -->
+$$
+\forall x.\ A \above 2pt A
+$$
+
+<!-- 6.6 -->
+$$
+\exists x.\ A \above 2pt A
+$$
+
+<!-- 6.7 -->
+$$
+A\land (\forall x.\ P(x)) \above 2pt \forall x.\ A\land P(x)
+$$
+
+<!-- 6.8 -->
+$$
+(\forall x.\ P(x))\land (\forall x.\ Q(x)) \above 2pt \forall x.\ P(x)\land Q(x)
+$$
+
+<!-- 6.9 -->
+$$
+(\exists x.\ P(x))\lor (\exists x.\ Q(x)) \above 2pt \exists x.\ P(x)\lor Q(x)
+$$
+
+<!-- 6.10 -->
+$$
+(\exists x.\ P(x))\to A \above 2pt \forall x.\ P(x)\to A
+$$
+
+<!-- 6.11 -->
+$$
+\forall x.\ P(x)\to Q(x) \quad P(a) \above 2pt Q(a)
+$$
+
+<!-- 6.12 -->
+$$
+\forall x.\ \forall y.\ P(x, y) \above 2pt \forall y.\ \forall x.\ P(x, y)
+$$
+
+<!-- 6.13 -->
+$$
+\exists x.\ \exists y.\ P(x, y) \above 2pt \exists y.\ \exists x.\ P(x, y)
+$$
+
+<!-- 6.14 -->
+$$
+\exists x.\ \forall y.\ P(x, y) \above 2pt \forall y.\ \exists x.\ P(x, y)
+$$
+
+<!-- 6.15 -->
+$$
+\forall x.\ P(x) \above 2pt (\exists x.\ P(x)\to \perp)\to \perp
+$$
+
+<!-- 6.16 -->
+$$
+(\forall x.\ P(x))\to \perp \above 2pt \exists x.\ P(x)\to \perp
+$$
+
+<!-- 6.17 -->
+$$
+(\forall x.\ P(x))\to A \above 2pt \exists x.\ P(x)\to A
+$$
+
 
 ## Session 7
 
