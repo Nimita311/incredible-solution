@@ -147,6 +147,65 @@ A\to (A\to B) \quad (A\to B)\to A \above 2pt B
 $$
 
 ## Session 3
+<!-- 3.1 -->
+$$
+A \quad B \above 2pt A\lor B
+$$
+
+<!-- 3.2 -->
+$$
+A \above 2pt A\lor B
+$$
+
+<!-- 3.3 -->
+$$
+B \above 2pt A\lor B
+$$
+
+<!-- 3.4 -->
+$$
+A \above 2pt A\lor A
+$$
+
+<!-- 3.5 -->
+$$
+A\lor B \above 2pt B\lor A
+$$
+
+<!-- 3.6 -->
+$$
+A\lor (B\lor C) \above 2pt (A\lor B)\lor C
+$$
+
+<!-- 3.7 -->
+$$
+A\land B \above 2pt A\lor B
+$$
+
+<!-- 3.8 -->
+$$
+(A\land B)\lor C \above 2pt (A\lor C)\land(B\lor C)
+$$
+
+<!-- 3.9 -->
+$$
+(A\lor B)\land C \above 2pt (A\land C)\lor (B\land C)
+$$
+
+<!-- 3.10 -->
+$$
+(A\to C)\land (B\to C) \above 2pt A\lor B\to C
+$$
+
+<!-- 3.11 -->
+$$
+A\lor B\to C \above 2pt (A\to C)\land (B\to C)
+$$
+
+<!-- 3.12 -->
+$$
+(A\to B)\lor (A\to C) \above 2pt A\to B\lor C
+$$
 
 ## Session 4
 
