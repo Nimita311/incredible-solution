@@ -475,6 +475,35 @@ $$
 
 
 ## NAND Calculus
+<!-- 9.1 -->
+$$
+A\uparrow B \above 2pt B\uparrow A
+$$
+
+<!-- 9.2 -->
+$$
+A \above 2pt (A\uparrow A)\uparrow (A\uparrow A)
+$$
+
+<!-- 9.3 -->
+$$
+{} \above 2pt (A\uparrow A)\uparrow A
+$$
+
+<!-- 9.4 -->
+$$
+(A\uparrow A)\uparrow (A\uparrow A) \above 2pt A
+$$
+
+<!-- 9.5 -->
+$$
+A \quad B \above 2pt (A\uparrow B)\uparrow (A\uparrow B)
+$$
+
+<!-- 9.6 -->
+$$
+(A\uparrow B)\uparrow (A\uparrow B) \above 2pt A \quad B
+$$
 
 ## Simply Type Lambda Calculus
 
