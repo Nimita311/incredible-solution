@@ -284,6 +284,50 @@ $$
 $$
 
 ## Session 5
+<!-- 5.1 -->
+$$
+{} \above 2pt A\lor (A\to \perp)
+$$
+
+<!-- 5.2 -->
+$$
+(B\to \perp)\to (A\to \perp) \above 2pt A\to B
+$$
+
+<!-- 5.3 -->
+$$
+A\land B\to \perp \above 2pt (A\to \perp)\lor (B\to \perp)
+$$
+
+<!-- 5.4 -->
+$$
+(A\to \perp)\to \perp \above 2pt A
+$$
+
+<!-- 5.5 -->
+$$
+A\to B \above 2pt (A\to \perp)\lor B
+$$
+
+<!-- 5.6 -->
+$$
+A\to B \quad B\to C \above 2pt (A\to \perp)\lor C
+$$
+
+<!-- 5.7 -->
+$$
+{} \above 2pt ((A\to B)\to A)\to A
+$$
+
+<!-- 5.8 -->
+$$
+(A\land B)\land C\to \perp \above 2pt ((A\to \perp)\lor (B\to \perp))\lor (C\to \perp)
+$$
+
+<!-- 5.9 -->
+$$
+(A\to B)\to \perp \above 2pt A\land (B\to \perp)
+$$
 
 ## Session 6
 
