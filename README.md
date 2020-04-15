@@ -208,6 +208,80 @@ $$
 $$
 
 ## Session 4
+<!-- 4.1 -->
+$$
+\perp \above 2pt A
+$$
+
+<!-- 4.2 -->
+$$
+\perp \above 2pt A\quad B
+$$
+
+<!-- 4.3 -->
+$$
+A \above 2pt \perp \lor A
+$$
+
+<!-- 4.4 -->
+$$
+\perp \lor A \above 2pt A
+$$
+
+<!-- 4.5 -->
+$$
+\perp \and A \above 2pt \perp
+$$
+
+<!-- 4.6 -->
+$$
+{} \above 2pt \perp\to A
+$$
+
+<!-- 4.7 -->
+$$
+A\to B \above 2pt (B\to \perp)\to (A\to \perp)
+$$
+
+<!-- 4.8 -->
+$$
+A\lor B\to \perp \above 2pt (A\to \perp)\land (B\to \perp)
+$$
+
+<!-- 4.9 -->
+$$
+(A\to \perp)\land (B\to \perp) \above 2pt A\lor B\to \perp
+$$
+
+<!-- 4.10 -->
+$$
+(A\to \perp)\lor (B\to \perp) \above 2pt A\land B\to \perp
+$$
+
+<!-- 4.11 -->
+$$
+((A\to \perp)\to \perp)\to\perp \above 2pt A\to \perp
+$$
+
+<!-- 4.12 -->
+$$
+(A\to \perp)\lor B \above 2pt A\to B
+$$
+
+<!-- 4.13 -->
+$$
+A\to \perp \quad B\to A \above 2pt B\to \perp
+$$
+
+<!-- 4.14 -->
+$$
+((A\to \perp)\lor (B\to \perp))\lor (C\to \perp) \above 2pt (A\land B)\land C\to \perp
+$$
+
+<!-- 4.15 -->
+$$
+{} \above 2pt (A\lor (A\to \perp)\to \perp)\to \perp
+$$
 
 ## Session 5
 
