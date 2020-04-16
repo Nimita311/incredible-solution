@@ -162,38 +162,74 @@ Or
 <!-- 3.1 -->
 <p align="center"><img alt="$$&#10;A \quad B \above 2pt A\lor B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/5cde9e891e540bd8907d28eb5d7fab01.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![3.1.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.1.1.svg "3.1.1")
+
+Or
+
+![3.1.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.1.2.svg "3.1.2")
+
 <!-- 3.2 -->
 <p align="center"><img alt="$$&#10;A \above 2pt A\lor B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/b9e3ad117d09c668af58e6e285b3a3bd.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
+
+![3.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.2.svg "3.2")
 
 <!-- 3.3 -->
 <p align="center"><img alt="$$&#10;B \above 2pt A\lor B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/75f49d35bd82e5682de43611d0ec3c95.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![3.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.3.svg "3.3")
+
 <!-- 3.4 -->
 <p align="center"><img alt="$$&#10;A \above 2pt A\lor A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/367987baba9fa5206ada45a98b068870.svg" align="middle" width="42.922294799999996pt" height="45.479403749999996pt"/></p>
+
+![3.4.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.4.1.svg "3.4.1")
+
+Or
+
+![3.4.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.4.2.svg "3.4.2")
 
 <!-- 3.5 -->
 <p align="center"><img alt="$$&#10;A\lor B \above 2pt B\lor A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/8a6c899b003b2577b1ea392eb27d7f9b.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![3.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.5.svg "3.5")
+
 <!-- 3.6 -->
 <p align="center"><img alt="$$&#10;A\lor (B\lor C) \above 2pt (A\lor B)\lor C&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/3bec7183070a2c56d0509056b6b69433.svg" align="middle" width="87.86167664999999pt" height="55.8904104pt"/></p>
+
+![3.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.6.svg "3.6")
 
 <!-- 3.7 -->
 <p align="center"><img alt="$$&#10;A\land B \above 2pt A\lor B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/75283d7ee7d7c42339646bb9e56d31cb.svg" align="middle" width="43.886906249999996pt" height="45.479403749999996pt"/></p>
 
+![3.7.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.7.1.svg "3.7.1")
+
+Or
+
+![3.7.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.7.2.svg "3.7.2")
+
 <!-- 3.8 -->
 <p align="center"><img alt="$$&#10;(A\land B)\lor C \above 2pt (A\lor C)\land(B\lor C)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/40d496c361505f7d82a9c16533c71428.svg" align="middle" width="131.8364388pt" height="55.8904104pt"/></p>
+
+![3.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.8.svg "3.8")
 
 <!-- 3.9 -->
 <p align="center"><img alt="$$&#10;(A\lor B)\land C \above 2pt (A\land C)\lor (B\land C)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/3b3da4b726c2f67510fb60a7c203763a.svg" align="middle" width="131.8364388pt" height="55.8904104pt"/></p>
 
+![3.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.9.svg "3.9")
+
 <!-- 3.10 -->
 <p align="center"><img alt="$$&#10;(A\to C)\land (B\to C) \above 2pt A\lor B\to C&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/24407e3efa6987fd21fe3de19a08b59e.svg" align="middle" width="146.44824315pt" height="50.684898pt"/></p>
+
+![3.10](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.10.svg "3.10")
 
 <!-- 3.11 -->
 <p align="center"><img alt="$$&#10;A\lor B\to C \above 2pt (A\to C)\land (B\to C)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/7c3e2c636057ada6cdb12e6681326c8f.svg" align="middle" width="146.44824315pt" height="50.68491615pt"/></p>
 
+![3.11](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.11.svg "3.11")
+
 <!-- 3.12 -->
 <p align="center"><img alt="$$&#10;(A\to B)\lor (A\to C) \above 2pt A\to B\lor C&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/1949ba8959f10f6bcd9a6b811859153c.svg" align="middle" width="145.85240340000001pt" height="50.684898pt"/></p>
+
+![3.12](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.12.svg "3.12")
 
 ## Session 4
 <!-- 4.1 -->
