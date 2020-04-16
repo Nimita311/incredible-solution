@@ -447,11 +447,17 @@ Or
 <!-- 10.1 -->
 <p align="center"><img alt="$$&#10;{} \above 2pt (\lambda x.\ x):\ a\to a&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/8f2605283651f0610656581f92d859d1.svg" align="middle" width="113.33693249999999pt" height="29.5890408pt"/></p>
 
+![10.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/10.1.svg "10.1")
+
 <!-- 10.2 -->
 <p align="center"><img alt="$$&#10;{} \above 2pt (\lambda x.\ \lambda y.\ x):\ a\to (b\to a)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/fead59be15af3892f1aeef22a4b35f5a.svg" align="middle" width="187.0317207pt" height="29.5890408pt"/></p>
 
+![10.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/10.2.svg "10.2")
+
 <!-- 10.3 -->
 <p align="center"><img alt="$$&#10;{} \above 2pt (\lambda x.\ \lambda y.\ \lambda z.\ (x\cdot z)\cdot (y\cdot z)): (a\to (b\to c))\to ((a\to b)\to (a\to c))&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/3b5e75eab1ccac16a633866ff9aaf547.svg" align="middle" width="479.52159585pt" height="29.5890408pt"/></p>
+
+![10.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/10.3.svg "10.3")
 
 
 ## Copyright
