@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="v-2" width="267" height="108"><style type="text/css">.viewport { user-select: none; }
+[magnet="true"]:not(.element) { cursor: crosshair; }
+[magnet="true"]:not(.element):hover { opacity: 0.7; }
+.element { cursor: move; }
+.element * { vector-effect: non-scaling-stroke; }
+.connection-wrap { fill: none; stroke: rgb(0, 0, 0); stroke-width: 15px; stroke-linecap: round; stroke-linejoin: round; opacity: 0; cursor: move; }
+.connection-wrap:hover { opacity: 0.4; stroke-opacity: 0.4; }
+.connection { fill: none; stroke-linejoin: round; }
+.marker-source, .marker-target { vector-effect: non-scaling-stroke; }
+.marker-vertices { opacity: 0; cursor: move; }
+.marker-arrowheads { opacity: 0; cursor: grab; }
+.link-tools { opacity: 0; cursor: pointer; }
+.link-tools .tool-options { display: none; }
+.link-tools .tool-remove circle { fill: red; }
+.link-tools .tool-remove path { fill: rgb(255, 255, 255); }
+.link:hover .marker-vertices, .link:hover .marker-arrowheads, .link:hover .link-tools { opacity: 1; }
+.marker-vertex { fill: rgb(26, 188, 156); }
+.marker-vertex:hover { fill: rgb(52, 73, 94); stroke: none; }
+.marker-arrowhead { fill: rgb(26, 188, 156); }
+.marker-arrowhead:hover { fill: rgb(243, 156, 18); stroke: none; }
+.marker-vertex-remove { cursor: pointer; opacity: 0.1; fill: rgb(255, 255, 255); }
+.marker-vertex-group:hover .marker-vertex-remove { opacity: 1; }
+.marker-vertex-remove-area { opacity: 0.1; cursor: pointer; }
+.marker-vertex-group:hover .marker-vertex-remove-area { opacity: 1; }
+.highlighted { opacity: 0.7; }
+text.highlighted { fill: red; }
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  .highlighted { outline: red solid 2px; opacity: initial; }
+}
+.element .fobj { overflow: hidden; }
+.element .fobj body { background-color: transparent; margin: 0px; }
+.element .fobj div { text-align: center; vertical-align: middle; display: table-cell; padding: 0px 5px; }
+svg { font-family: sans-serif; }
+.connection { stroke: rgb(153, 153, 153); }
+.connection.error { stroke: rgb(255, 0, 0); }
+.connection-wrap { stroke-linecap: butt; transition: all 0.5s linear 0.2s; }
+.connection-wrap:hover { stroke: black; stroke-width: 9px; transition: all 0s ease 0s; }
+.marker-arrowhead, .marker-vertex { fill: rgb(255, 255, 255); stroke: rgb(127, 140, 141); stroke-opacity: 0.4; stroke-width: 2px; }
+.marker-arrowhead:hover, .marker-vertex:hover { fill: rgb(236, 240, 241); stroke: rgb(189, 195, 199); }
+.marker-vertex-remove-area { fill: white; stroke: rgb(204, 204, 204); stroke-opacity: 0.5; }
+.marker-vertex-remove-group:hover .marker-vertex-remove-area { transition: fill 1s ease 0s; fill: rgb(231, 76, 60); stroke: rgb(192, 57, 43); }
+.marker-vertex-remove { stroke: rgb(238, 238, 238); }
+.marker-vertex-remove-group:hover .marker-vertex-remove { stroke: none; }
+.live .connection { stroke: rgb(46, 204, 113); stroke-width: 3px; }
+.live .connection-wrap { stroke: rgb(46, 204, 113); }
+.element.live .body { fill: rgb(46, 204, 113); stroke: rgb(39, 174, 96); }
+.element.live text { fill: rgb(255, 255, 255); }
+.ui-draggable { cursor: move; }
+.block .label { font-family: sans; font-size: 17px; fill: black; }
+.block .resize-left { cursor: ew-resize; }
+.block .resize-right { cursor: ew-resize; }
+.block .number { fill: rgb(0, 0, 0); opacity: 0.5; font-size: 8px; }
+.block .body { fill: rgb(236, 240, 241); }
+.qed .block.conclusion .body { fill: rgb(40, 220, 30); }
+.block:hover .body { fill: white; }
+.qed .block.conclusion:hover .body { fill: rgb(170, 255, 170); }
+.selected .block .body { stroke: blue; stroke-opacity: 1; }
+.port-body[magnet="true"]:hover { fill: black; }
+.tool-remove { opacity: 0; cursor: pointer; }
+.link:hover .tool-remove { opacity: 1; }
+.block:hover .tool-remove { opacity: 1; }
+.tool-remove circle { fill: white; stroke: rgb(204, 204, 204); stroke-width: 1px; stroke-opacity: 0.5; }
+.tool-remove:hover circle { fill: rgb(231, 76, 60); stroke: rgb(192, 57, 43); }
+.tool-remove path { stroke: rgb(204, 204, 204); }
+.tool-remove circle { transition: fill 1s ease 0s; }
+.tool-remove:hover path { stroke: none; }
+.element * { vector-effect: none; }</style><g id="v-3" class="viewport" transform="translate(0,-150) scale(1,1)"><g id="j_1199" model-id="e17d54fb-8029-4314-be67-23e15bacb68b" class="element incredible Generic joint-theme-default" magnet="false" fill="#ffffff" stroke="none" transform="translate(50,178.49285178438615)"><g class="block" id="v-63973"><path class="body" fill="#ecf0f1" stroke="#bdc3c7" stroke-opacity="0.5" id="v-63978" d="M-40 0 a 17.5 17.5 0 0 1 17.5 -17.5 h57.5 a 5 5 0 0 1 5 5 v25 a 5 5 0 0 1 -5 5 h-57.5 a 17.5 17.5 0 0 1 -17.5 -17.5 Z"></path><text class="number" id="v-63974" y="0.8em" display="null" xml:space="preserve" transform="translate(29.550000190734863,8)"><tspan dy="0em" x="0" id="v-63975" class="v-line">1</tspan></text><text class="label center" id="v-63976" y="0.8em" display="null" xml:space="preserve" transform="translate(-6.641666889190674,-8.75)"><tspan dy="0em" x="0" id="v-63977" class="v-line">A</tspan></text><g id="v-63979" class="port-wrap-out" transform="translate(40,0)"><path class="port-body" stroke="none" fill="#777" id="v-63980" magnet="true" port="out" direction="out" orientation="right" d="M-5,-5 l 0 5 a5,5 0 1,0 5,-5 z" transform="rotate(135)"></path></g></g></g><g id="j_1200" model-id="0f4be774-bc4c-44bd-9ce2-3f3b947f4ea9" class="element incredible Generic joint-theme-default" magnet="false" fill="#ffffff" stroke="none" transform="translate(50,228.49285178438615)"><g class="block" id="v-63981"><path class="body" fill="#ecf0f1" stroke="#bdc3c7" stroke-opacity="0.5" id="v-63986" d="M-40 0 a 17.5 17.5 0 0 1 17.5 -17.5 h57.5 a 5 5 0 0 1 5 5 v25 a 5 5 0 0 1 -5 5 h-57.5 a 17.5 17.5 0 0 1 -17.5 -17.5 Z"></path><text class="number" id="v-63982" y="0.8em" display="null" xml:space="preserve" transform="translate(29.550000190734863,8)"><tspan dy="0em" x="0" id="v-63983" class="v-line">2</tspan></text><text class="label center" id="v-63984" y="0.8em" display="null" xml:space="preserve" transform="translate(-21.28333282470703,-10)"><tspan dy="0em" x="0" id="v-63985" class="v-line">A→A</tspan></text><g id="v-63987" class="port-wrap-out" transform="translate(40,0)"><path class="port-body" stroke="none" fill="#777" id="v-63988" magnet="true" port="out" direction="out" orientation="right" d="M-5,-5 l 0 5 a5,5 0 1,0 5,-5 z" transform="rotate(135)"></path></g></g></g><g id="j_1201" model-id="ba19ef1b-0397-4c9d-a332-43cbf1d6f0ee" class="element incredible Generic joint-theme-default qed" magnet="false" fill="#ffffff" stroke="none" transform="translate(210,180)"><g class="block conclusion" id="v-63989"><path class="body" fill="#ecf0f1" stroke="#bdc3c7" stroke-opacity="0.5" id="v-63994" d="M-40 0 v-12.5 a 5 5 0 0 1 5 -5 h62.5 a 17.5 17.5 0 0 1 17.5 17.5 a 17.5 17.5 0 0 1 -17.5 17.5 h-62.5 a 5 5 0 0 1 -5 -5 v-12.5 Z"></path><text class="number" id="v-63990" y="0.8em" display="null" xml:space="preserve" transform="translate(29.550000190734863,8)"><tspan dy="0em" x="0" id="v-63991" class="v-line">3</tspan></text><text class="label center" id="v-63992" y="0.8em" display="null" xml:space="preserve" transform="translate(-6.641666889190674,-8.75)"><tspan dy="0em" x="0" id="v-63993" class="v-line">A</tspan></text><g id="v-63995" class="port-wrap-in" transform="translate(-40,0)"><path class="port-body" stroke="none" fill="#777" id="v-63996" magnet="true" port="in" direction="in" orientation="left" d="M0,0 l 0 5 a5,5 0 1,1 5,-5 z" transform="rotate(135)"></path></g></g></g><g id="j_1202" model-id="13830026-2f96-4475-8869-9a02110c7d83" class="incredible Link link joint-theme-default"><path class="connection" stroke="black" d="M 97 180 104 180 S 110 180 120 180 L 140 180 S 150 180 157 180 L 163 180" id="v-63997" stroke-width="2"></path><path class="marker-source" fill="black" stroke="black" d="M 0 0 0 0" id="v-63998" transform="translate(97,180) scale(1,1) rotate(0)"></path><path class="marker-target" fill="black" stroke="black" d="M 0 0 0 0" id="v-63999" transform="translate(163,180) scale(1,1) rotate(-180)"></path><path class="connection-wrap" d="M 97 180 104 180 S 110 180 120 180 L 140 180 S 150 180 157 180 L 163 180" id="v-64000"></path><g class="labels" id="v-64001"><g class="label" id="v-64013" label-idx="0" transform="translate(130, 180)"><rect fill="white" rx="3" ry="3" x="-5.166666507720947" y="-7.050000190734863" width="10.333333015441895" height="14.5"></rect><text text-anchor="middle" font-size="14" id="v-64014" y="0.8em" display="null" xml:space="preserve" transform="translate(0,-7.25)"><tspan dy="0em" x="0" id="v-64015" class="v-line">A</tspan></text></g></g><g class="marker-vertices" id="v-64002"></g><g class="marker-arrowheads" id="v-64003"><g class="marker-arrowhead-group marker-arrowhead-group-source" id="v-64006" transform="translate(100.5,180) scale(0.5,0.5) rotate(0)"><circle class="marker-arrowhead" end="source" r="7"></circle></g><g class="marker-arrowhead-group marker-arrowhead-group-target" id="v-64007" transform="translate(159.5,180) scale(0.5,0.5) rotate(-180)"><circle class="marker-arrowhead" end="target" r="7"></circle></g></g><g class="link-tools" id="v-64004"><g class="link-tool" id="v-64005" transform="translate(117, 180) scale(.5)"><g class="tool-remove" event="remove"><circle r="11"></circle><path transform="scale(.8) translate(-16, -16)" d="M24.778,21.419 19.276,15.917 24.777,10.415 21.949,7.585 16.447,13.087 10.945,7.585 8.117,10.415 13.618,15.917 8.116,21.419 10.946,24.248 16.447,18.746 21.948,24.248z"></path><title>Remove link.</title></g><g class="tool-options" event="link:options"><circle r="11" transform="translate(25)"></circle><path fill="white" transform="scale(.55) translate(29, -16)" d="M31.229,17.736c0.064-0.571,0.104-1.148,0.104-1.736s-0.04-1.166-0.104-1.737l-4.377-1.557c-0.218-0.716-0.504-1.401-0.851-2.05l1.993-4.192c-0.725-0.91-1.549-1.734-2.458-2.459l-4.193,1.994c-0.647-0.347-1.334-0.632-2.049-0.849l-1.558-4.378C17.165,0.708,16.588,0.667,16,0.667s-1.166,0.041-1.737,0.105L12.707,5.15c-0.716,0.217-1.401,0.502-2.05,0.849L6.464,4.005C5.554,4.73,4.73,5.554,4.005,6.464l1.994,4.192c-0.347,0.648-0.632,1.334-0.849,2.05l-4.378,1.557C0.708,14.834,0.667,15.412,0.667,16s0.041,1.165,0.105,1.736l4.378,1.558c0.217,0.715,0.502,1.401,0.849,2.049l-1.994,4.193c0.725,0.909,1.549,1.733,2.459,2.458l4.192-1.993c0.648,0.347,1.334,0.633,2.05,0.851l1.557,4.377c0.571,0.064,1.148,0.104,1.737,0.104c0.588,0,1.165-0.04,1.736-0.104l1.558-4.377c0.715-0.218,1.399-0.504,2.049-0.851l4.193,1.993c0.909-0.725,1.733-1.549,2.458-2.458l-1.993-4.193c0.347-0.647,0.633-1.334,0.851-2.049L31.229,17.736zM16,20.871c-2.69,0-4.872-2.182-4.872-4.871c0-2.69,2.182-4.872,4.872-4.872c2.689,0,4.871,2.182,4.871,4.872C20.871,18.689,18.689,20.871,16,20.871z"></path><title>Link options.</title></g></g></g></g></g><defs id="v-4"></defs></svg>
