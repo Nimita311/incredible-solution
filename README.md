@@ -428,20 +428,32 @@ Or
 <!-- 9.1 -->
 <p align="center"><img alt="$$&#10;A\uparrow B \above 2pt B\uparrow A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/94ec2c1c1ef41091aa228c81df6a5d84.svg" align="middle" width="42.973614749999996pt" height="52.23738795pt"/></p>
 
+![9.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.1.svg "9.1")
+
 <!-- 9.2 -->
 <p align="center"><img alt="$$&#10;A \above 2pt (A\uparrow A)\uparrow (A\uparrow A)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/ad19198507ae9cb55933e9800c317136.svg" align="middle" width="126.94027994999999pt" height="50.68491615pt"/></p>
+
+![9.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.2.svg "9.2")
 
 <!-- 9.3 -->
 <p align="center"><img alt="$$&#10;{} \above 2pt (A\uparrow A)\uparrow A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/2e1c951c82569c6e5880cd0658dc96a4.svg" align="middle" width="84.47464244999999pt" height="29.5890408pt"/></p>
 
+![9.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.3.svg "9.3")
+
 <!-- 9.4 -->
 <p align="center"><img alt="$$&#10;(A\uparrow A)\uparrow (A\uparrow A) \above 2pt A&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/c1c6ae8e124c0b3bfa7e6703b76110c5.svg" align="middle" width="126.94027994999999pt" height="50.684898pt"/></p>
+
+![9.4](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.4.svg "9.4")
 
 <!-- 9.5 -->
 <p align="center"><img alt="$$&#10;A \quad B \above 2pt (A\uparrow B)\uparrow (A\uparrow B)&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/5abbd6d0f420eb99d37a745e8e54db30.svg" align="middle" width="128.8694913pt" height="50.68491615pt"/></p>
 
+![9.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.5.svg "9.5")
+
 <!-- 9.6 -->
 <p align="center"><img alt="$$&#10;(A\uparrow B)\uparrow (A\uparrow B) \above 2pt A \quad B&#10;$$" src="https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/deductions/bcf6b533ff04af0da9c016565558f0cd.svg" align="middle" width="128.8694913pt" height="50.684898pt"/></p>
+
+![9.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/9.6.svg "9.6")
 
 ## Simply Type Lambda Calculus
 <!-- 10.1 -->
