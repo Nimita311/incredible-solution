@@ -481,17 +481,27 @@ $$ {} \above 2pt \neg A\to (A\to B) $$
 <!-- 8.5 -->
 $$ {} \above 2pt (\neg A\to A)\to A $$
 
+![8.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.5.svg "8.5")
+
 <!-- 8.6 -->
 $$ {} \above 2pt \neg\neg A\to A $$
+
+![8.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.6.svg "8.6")
 
 <!-- 8.7 -->
 $$ {} \above 2pt A\to \neg\neg A $$
 
+![8.7](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.7.svg "8.7")
+
 <!-- 8.8 -->
 $$ {} \above 2pt (B\to A)\to (\neg A\to \neg B) $$
 
+![8.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.8.svg "8.8")
+
 <!-- 8.9 -->
 $$ {} \above 2pt (A\to B)\to ((\neg A\to B)\to B) $$
+
+![8.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.9.svg "8.9")
 
 
 ## NAND Calculus
