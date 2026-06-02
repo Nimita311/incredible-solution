@@ -57,6 +57,8 @@ $$ A\land B \above 2pt A\land B $$
 <!-- 1.9 -->
 $$ A\land B \above 2pt B\land A $$
 
+*commutativity of ∧*
+
 ![1.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.9.svg "1.9")
 
 <!-- 1.10 -->
@@ -72,12 +74,16 @@ $$ (A\land B)\land C \above 2pt A\land C $$
 <!-- 1.12 -->
 $$ (A\land B)\land C \above 2pt A\land (B\land C) $$
 
+*associativity of ∧*
+
 ![1.12](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/1.12.svg "1.12")
 
 
 ## Session 2
 <!-- 2.1 -->
 $$ A \quad A\to B \above 2pt B $$
+
+*modus ponens (MP)*
 
 ![2.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/2.1.svg "2.1")
 
@@ -102,6 +108,8 @@ $$ A \quad A\to A \above 2pt A $$
 
 <!-- 2.5 -->
 $$ A\to B \quad B\to C \above 2pt A\to C $$
+
+*hypothetical syllogism*
 
 ![2.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/2.5.svg "2.5")
 
@@ -141,10 +149,14 @@ $$ B \above 2pt A\to B $$
 <!-- 2.11 -->
 $$ A\land B\to C \above 2pt A\to (B\to C) $$
 
+*currying*
+
 ![2.11](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/2.11.svg "2.11")
 
 <!-- 2.12 -->
 $$ A\to (B\to C) \above 2pt A\land B\to C $$
+
+*uncurrying*
 
 ![2.12](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/2.12.svg "2.12")
 
@@ -190,10 +202,14 @@ Or
 <!-- 3.5 -->
 $$ A\lor B \above 2pt B\lor A $$
 
+*commutativity of ∨*
+
 ![3.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.5.svg "3.5")
 
 <!-- 3.6 -->
 $$ A\lor (B\lor C) \above 2pt (A\lor B)\lor C $$
+
+*associativity of ∨*
 
 ![3.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.6.svg "3.6")
 
@@ -209,10 +225,14 @@ Or
 <!-- 3.8 -->
 $$ (A\land B)\lor C \above 2pt (A\lor C)\land(B\lor C) $$
 
+*distributivity (∨ over ∧)*
+
 ![3.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.8.svg "3.8")
 
 <!-- 3.9 -->
 $$ (A\lor B)\land C \above 2pt (A\land C)\lor (B\land C) $$
+
+*distributivity (∧ over ∨)*
 
 ![3.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/3.9.svg "3.9")
 
@@ -234,6 +254,8 @@ $$ (A\to B)\lor (A\to C) \above 2pt A\to B\lor C $$
 ## Session 4
 <!-- 4.1 -->
 $$ \perp \above 2pt A $$
+
+*ex falso quodlibet (EFQ)*
 
 ![4.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.1.svg "4.1")
 
@@ -260,25 +282,35 @@ $$ \perp \land A \above 2pt \perp $$
 <!-- 4.6 -->
 $$ {} \above 2pt \perp\to A $$
 
+*ex falso quodlibet (EFQ)*
+
 ![4.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.6.svg "4.6")
 
 <!-- 4.7 -->
 $$ A\to B \above 2pt (B\to \perp)\to (A\to \perp) $$
+
+*contraposition (intuitionistic)*
 
 ![4.7](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.7.svg "4.7")
 
 <!-- 4.8 -->
 $$ A\lor B\to \perp \above 2pt (A\to \perp)\land (B\to \perp) $$
 
+*De Morgan*
+
 ![4.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.8.svg "4.8")
 
 <!-- 4.9 -->
 $$ (A\to \perp)\land (B\to \perp) \above 2pt A\lor B\to \perp $$
 
+*De Morgan*
+
 ![4.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.9.svg "4.9")
 
 <!-- 4.10 -->
 $$ (A\to \perp)\lor (B\to \perp) \above 2pt A\land B\to \perp $$
+
+*De Morgan*
 
 ![4.10](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/4.10.svg "4.10")
 
@@ -311,15 +343,21 @@ $$ {} \above 2pt (A\lor (A\to \perp)\to \perp)\to \perp $$
 <!-- 5.1 -->
 $$ {} \above 2pt A\lor (A\to \perp) $$
 
+*Law of Excluded Middle (LEM; tertium non datur)*
+
 ![5.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/5.1.svg "5.1")
 
 <!-- 5.2 -->
 $$ (B\to \perp)\to (A\to \perp) \above 2pt A\to B $$
 
+*contraposition (classical converse)*
+
 ![5.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/5.2.svg "5.2")
 
 <!-- 5.3 -->
 $$ A\land B\to \perp \above 2pt (A\to \perp)\lor (B\to \perp) $$
+
+*De Morgan (classical direction)*
 
 ![5.3.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/5.3.1.svg "5.3.1")
 
@@ -329,6 +367,8 @@ Or
 
 <!-- 5.4 -->
 $$ (A\to \perp)\to \perp \above 2pt A $$
+
+*double negation elimination (DNE)*
 
 ![5.4](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/5.4.svg "5.4")
 
@@ -344,6 +384,8 @@ $$ A\to B \quad B\to C \above 2pt (A\to \perp)\lor C $$
 
 <!-- 5.7 -->
 $$ {} \above 2pt ((A\to B)\to A)\to A $$
+
+*Peirce's Law*
 
 ![5.7](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/5.7.svg "5.7")
 
@@ -430,6 +472,8 @@ $$ \exists x.\ \exists y.\ P(x, y) \above 2pt \exists y.\ \exists x.\ P(x, y) $$
 <!-- 6.14 -->
 $$ \exists x.\ \forall y.\ P(x, y) \above 2pt \forall y.\ \exists x.\ P(x, y) $$
 
+*quantifier swap (converse fails)*
+
 ![6.14](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/6.14.svg "6.14")
 
 <!-- 6.15 -->
@@ -439,6 +483,8 @@ $$ \forall x.\ P(x) \above 2pt (\exists x.\ P(x)\to \perp)\to \perp $$
 
 <!-- 6.16 -->
 $$ (\forall x.\ P(x))\to \perp \above 2pt \exists x.\ P(x)\to \perp $$
+
+*De Morgan for quantifiers*
 
 ![6.16](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/6.16.svg "6.16")
 
@@ -452,54 +498,77 @@ $$ (\forall x.\ P(x))\to A \above 2pt \exists x.\ P(x)\to A $$
 <!-- 7.1 -->
 $$ {} \above 2pt \exists x.\ t(x)\to (\forall x_1.\ t(x_1)) $$
 
+*Drinker's paradox (Smullyan)*
+
 ![7.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/7.1.svg "7.1")
 
 <!-- 7.2 -->
 $$ \forall x.\ (r(x)\to \perp)\to r(f(x)) \above 2pt \exists x.\ r(x)\land r(f(f(x))) $$
 
 ## Hilbert System
+
+These theorems are from Whitehead and Russell's *Principia Mathematica* (Section \*2, propositional calculus). Proofs for 8.3 and 8.5–8.9 are transcribed from [`pmproofs.txt`](https://us.metamath.org/mmsolitaire/pmproofs.txt) (shortest known proofs maintained by Norman Megill); others derived by hand.
+
 <!-- 8.1 -->
 $$ {} \above 2pt A\to A $$
+
+*PM \*2.08*
 
 ![8.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.1.svg "8.1")
 
 <!-- 8.2 -->
 $$ {} \above 2pt (B\to C)\to ((A\to B)\to (A\to C)) $$
 
+*PM \*2.05*
+
 ![8.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.2.svg "8.2")
 
 <!-- 8.3 -->
 $$ {} \above 2pt (A\to (B\to C))\to (B\to (A\to C)) $$
+
+*PM \*2.04*
 
 ![8.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.3.svg "8.3")
 
 <!-- 8.4 -->
 $$ {} \above 2pt \neg A\to (A\to B) $$
 
+*ex falso quodlibet (EFQ; PM \*2.21)*
+
 ![8.4](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.4.svg "8.4")
 
 <!-- 8.5 -->
 $$ {} \above 2pt (\neg A\to A)\to A $$
+
+*Clavius (PM \*2.18)*
 
 ![8.5](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.5.svg "8.5")
 
 <!-- 8.6 -->
 $$ {} \above 2pt \neg\neg A\to A $$
 
+*double negation elimination (DNE; PM \*2.14)*
+
 ![8.6](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.6.svg "8.6")
 
 <!-- 8.7 -->
 $$ {} \above 2pt A\to \neg\neg A $$
+
+*double negation introduction (DNI; PM \*2.12)*
 
 ![8.7](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.7.svg "8.7")
 
 <!-- 8.8 -->
 $$ {} \above 2pt (B\to A)\to (\neg A\to \neg B) $$
 
+*contraposition (PM \*2.16)*
+
 ![8.8](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.8.svg "8.8")
 
 <!-- 8.9 -->
 $$ {} \above 2pt (A\to B)\to ((\neg A\to B)\to B) $$
+
+*PM \*2.61*
 
 ![8.9](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.9.svg "8.9")
 
