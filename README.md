@@ -452,6 +452,8 @@ $$ (\forall x.\ P(x))\to A \above 2pt \exists x.\ P(x)\to A $$
 <!-- 7.1 -->
 $$ {} \above 2pt \exists x.\ t(x)\to (\forall x_1.\ t(x_1)) $$
 
+![7.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/7.1.svg "7.1")
+
 <!-- 7.2 -->
 $$ \forall x.\ (r(x)\to \perp)\to r(f(x)) \above 2pt \exists x.\ r(x)\land r(f(f(x))) $$
 
@@ -459,14 +461,22 @@ $$ \forall x.\ (r(x)\to \perp)\to r(f(x)) \above 2pt \exists x.\ r(x)\land r(f(f
 <!-- 8.1 -->
 $$ {} \above 2pt A\to A $$
 
+![8.1](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.1.svg "8.1")
+
 <!-- 8.2 -->
 $$ {} \above 2pt (B\to C)\to ((A\to B)\to (A\to C)) $$
+
+![8.2](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.2.svg "8.2")
 
 <!-- 8.3 -->
 $$ {} \above 2pt (A\to (B\to C))\to (B\to (A\to C)) $$
 
+![8.3](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.3.svg "8.3")
+
 <!-- 8.4 -->
 $$ {} \above 2pt \neg A\to (A\to B) $$
+
+![8.4](https://cdn.jsdelivr.net/gh/Nimita311/incredible-solution@master/solutions/8.4.svg "8.4")
 
 <!-- 8.5 -->
 $$ {} \above 2pt (\neg A\to A)\to A $$
